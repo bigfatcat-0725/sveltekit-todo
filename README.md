@@ -4,6 +4,4 @@
 
 <br>
 
-### svelte + my design idea(😅)
-
 ![todos](./static/todo.png)
